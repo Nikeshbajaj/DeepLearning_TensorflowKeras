@@ -3,17 +3,17 @@
 
 -----
 ## Table of contents
-- [Classical Neural Network]
-    - [using Tensorflow]
-    - [using Keras, functional API]
-- [Convolutional Neural Network]
-    - [Training from scratch]
-    - [Using pre-trained networks: Transfer learnign]
-- [Recurrent Neural Network]
-    - [Fixed length input]
+- [Classical Neural Network](#)
+    - [Using Tensorflow](#)
+    - [Using Keras, functional API](#)
+- [Convolutional Neural Network](#)
+    - [Training from scratch](#)
+    - [Transfer Learning: Using pre-trained networks](#)
+- [Recurrent Neural Network](#)
+    - [Fixed length input](#)
     - [Varible length input](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/README.md#recurrent-neural-network-with-valriable-length-of-input)
-- [CNN-LSTM]
-- [Mutitask model]
+- [CNN-LSTM](#)
+- [Mutitask model](#)
 
 -----
 
