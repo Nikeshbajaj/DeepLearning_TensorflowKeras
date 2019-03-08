@@ -10,7 +10,7 @@
     - [Training from scratch](#)
     - [Transfer Learning: Using pre-trained networks](#)
     - [Regularization](#)
-    - [Viewing the filters leanred](#)
+    - [Visualizing the filters leanred](#)
 - [Recurrent Neural Network](#)
     - [Fixed length input](#)
     - [Varible length input](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/README.md#valriable-length-of-input-using-generators)
