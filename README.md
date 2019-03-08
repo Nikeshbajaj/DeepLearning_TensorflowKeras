@@ -11,7 +11,7 @@
     - [Transfer Learning: Using pre-trained networks](#)
 - [Recurrent Neural Network](#)
     - [Fixed length input](#)
-    - [Varible length input](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/README.md#recurrent-neural-network-with-valriable-length-of-input)
+    - [Varible length input](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/README.md#valriable-length-of-input-using-generators)
 - [CNN-LSTM](#)
 - [Mutitask model](#)
 
@@ -26,6 +26,8 @@
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV1.png" width="300"/>
 
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_one2many.png" width="300"/>
+
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV2.png" width="500"/>
 </p>
 
 ###  Valriable length of input using generators
