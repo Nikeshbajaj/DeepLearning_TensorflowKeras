@@ -13,7 +13,7 @@
     - [Visualizing the filters leanred](#)
 - [Recurrent Neural Network](#)
     - [Fixed length input](#)
-    - [Varible length input](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/README.md#valriable-length-of-input-using-generators)
+    - [Varible length input](#valriable-length-of-input-using-generators)
 - [CNN-LSTM](#)
 - [CNN for audio signals](#)
 - [CNN Biomendical & sensor signals](#)
