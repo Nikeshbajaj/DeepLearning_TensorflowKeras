@@ -2,7 +2,7 @@
 #### Will be updated with codes and details soon...
 
 
-## RNN with valriable length of input
+## Recurrent Neural Network with valriable length of input
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300"/>
