@@ -1,5 +1,5 @@
 # DeepLearning using keras and tensorflow
-Modeling with Tensorflow and Keras
+#### Will be updated with codes and details soon...
 
 
 ## RNN with valriable length of input
@@ -13,4 +13,4 @@ Modeling with Tensorflow and Keras
 </p>
 
 ### Using generators
-### [Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
+### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
