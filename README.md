@@ -37,5 +37,11 @@
  </kbd>
 </p>
 
+
+[![model][1]][1]
+
+[1]: https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png
+
+
 ###  Valriable length of input using generators
 #### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
