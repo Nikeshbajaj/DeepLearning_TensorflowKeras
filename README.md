@@ -27,17 +27,8 @@
 
 ## Recurrent Neural Network
 ### Different Architectures
-<p align="center">
-<kbd>
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />|
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_one2many.png" width="300" />
-</kbd>
-<kbd>
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV1.png" width="300"/>|<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV2.png" width="500"/>
- </kbd>
-</p>
 
-<p align="center">
+<kbd>
 <table><tr><td>
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />
 </td>
@@ -54,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV2.png" width="500"/>
 </td>
 </tr></table>
-</p>
+</kbd>
 
 
 ###  Valriable length of input using generators
