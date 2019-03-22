@@ -43,4 +43,7 @@
 ###  Valriable length of input using generators
 #### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
 
+<kbd>
+[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" width="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
+</kbd>
 <kbd></kbd>
