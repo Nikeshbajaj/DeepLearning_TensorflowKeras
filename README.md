@@ -52,3 +52,7 @@
 <a class="reference external" href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" download="">LL</a>
 
 <kbd><img src="https://github.com/Nikeshbajaj/utis/raw/master/images/jp3.png" height="50"/></kbd>
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
