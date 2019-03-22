@@ -42,12 +42,7 @@
 #### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
 
 [<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp3.png" height="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
-[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" height="50"/>](https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb)
-
-<a href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" target="_blank">Link text</a>
-
-
-<a class="reference external" href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" download="">LL</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" height="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/)
 
 <kbd><img src="https://github.com/Nikeshbajaj/utis/raw/master/images/jp3.png" height="50"/></kbd>
 
