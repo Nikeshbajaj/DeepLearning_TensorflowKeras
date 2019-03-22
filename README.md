@@ -22,7 +22,7 @@
 - [Generative Adversarial Networks](#)
 - [Reinforcement Learning](#)
 -----
-<a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
+# <a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
 
 
 ## Recurrent Neural Network
@@ -53,5 +53,4 @@
 
 <kbd><img src="https://github.com/Nikeshbajaj/utis/raw/master/images/jp3.png" height="50"/></kbd>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
+## <a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
