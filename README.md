@@ -38,9 +38,14 @@
 </p>
 
 
-[![model][1]][1]
+<table><tr><td>
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_one2many.png" width="300" />
+</td>
+</tr></table>
 
-[1]: https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png
 
 
 ###  Valriable length of input using generators
