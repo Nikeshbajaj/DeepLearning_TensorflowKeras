@@ -22,8 +22,6 @@
 - [Generative Adversarial Networks](#)
 - [Reinforcement Learning](#)
 -----
-# <a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
-
 
 ## Recurrent Neural Network
 ### Different Architectures
