@@ -29,9 +29,7 @@
 ### Different Architectures
 <p align="center">
 <kbd>
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />
-</kbd>
-<kbd>
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />|
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_one2many.png" width="300" />
 </kbd>
 <kbd>
