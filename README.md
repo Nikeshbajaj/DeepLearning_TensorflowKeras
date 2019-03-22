@@ -46,6 +46,6 @@
 [<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp3.png" height="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
 [<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" height="50"/>](https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb)
 
-<a href="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb" download>Link text</a>
+<a href="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb" download target="_blank">Link text</a>
 
 <kbd></kbd>
