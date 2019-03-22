@@ -48,4 +48,9 @@
 
 <a href="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb" target="_blank">Link text</a>
 
+{% raw %}
+<button onclick="window.open('https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Different_Architectures.ipynb')">Download</button>
+{% endraw %}
+
+
 <kbd></kbd>
