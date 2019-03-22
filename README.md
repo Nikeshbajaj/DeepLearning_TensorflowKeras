@@ -46,7 +46,8 @@
 </tr></table>
 </center>
 
-<kbd>
+
 ###  Valriable length of input using generators
 #### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
-</kbd>
+
+<kbd></kbd>
