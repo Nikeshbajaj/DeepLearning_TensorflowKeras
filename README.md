@@ -27,8 +27,8 @@
 
 ## Recurrent Neural Network
 ### Different Architectures
-<body style="text-align:center;">
 <table align="center">
+<table>
 <tr><td>
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2one.png" width="300" />
 </td>
@@ -37,7 +37,7 @@
 </td>
 </tr>
 </table>
-<table align="center">
+<table>
 <tr><td>
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/DeepLearning_TensorflowKeras/master/img/RNN_many2manyV1.png" width="300"/>
 </td>
@@ -46,7 +46,8 @@
 </td>
 </tr>
 </table>
-</body>
+
+</table>
 
 
 ###  Valriable length of input using generators
