@@ -51,4 +51,4 @@
 
 <a class="reference external" href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" download="">LL</a>
 
-<kbd></kbd>
+<kbd><img src="https://github.com/Nikeshbajaj/utis/raw/master/images/jp3.png" height="50"/></kbd>
