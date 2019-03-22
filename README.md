@@ -49,6 +49,6 @@
 <a href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" target="_blank">Link text</a>
 
 
-
+<a class="reference download internal" href="https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/" download="">LL</a>
 
 <kbd></kbd>
