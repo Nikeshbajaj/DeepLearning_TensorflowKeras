@@ -39,10 +39,10 @@
 </td></tr></table>
 
 ###  Valriable length of input using generators
-#### [Jupyter-Notebook](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
+#### [Jupyter-Notebook](https://nbviewer.jupyter.org/github/nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Variable_Input_Length.ipynb)
 
-[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp3.png" height="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Different_Architectures.ipynb/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" height="50"/>](https://github.com/Nikeshbajaj/DeepLearning_TensorflowKeras/raw/master/RNN_Different_Architectures.ipynb/)
+[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp3.png" height="50"/>](https://nbviewer.jupyter.org/github/nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Variable_Input_Length.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/jp.png" height="50"/>](https://raw.githubusercontent.com/nikeshbajaj/DeepLearning_TensorflowKeras/master/RNN_Variable_Input_Length.ipynb)
 
 
 ## <a class="github-button" href="https://github.com/nikeshbajaj" data-size="large" aria-label="Follow @nikeshbajaj on GitHub">Follow @nikeshbajaj</a>
